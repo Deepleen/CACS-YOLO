@@ -1,0 +1,4 @@
+[console_scripts]
+ultralytics = ultralytics.cfg:entrypoint
+yolo = ultralytics.cfg:entrypoint
+
