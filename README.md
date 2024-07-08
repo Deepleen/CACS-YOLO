@@ -8,9 +8,9 @@
 
 ## **Highlights**
 
-1) By adding CAM based on feature reuse and feature CSO, a high-precision and lightweight insulator defect detection model CACS-YOLO was constructed, which achieved good results in both detection accuracy and lightweight.
+1) We proposed a new model CACS-YOLO by adding CAM based on feature reuse and feature CSO, which achieved good results in both detection accuracy and lightweight.
 
-2) The synthetic weather algorithms were used to enhance the data and construct a new dataset, which solved the problem of insufficient data and helped the model to further improve the detection accuracy.
+2) We proposed a new dataset by using the synthetic weather algorithms, which solved the problem of insufficient data and helped the model to further improve the detection accuracy.
 
 3) The insulator dataset SFRID containing 20,567 insulator images, including foggy and rainy days, was constructed and released, so that the model can cope well with different weather conditions.
 
