@@ -1,6 +1,6 @@
 # CACS-YOLO: A Lightweight Model for Insulator Defect Detection based on improved YOLOv8m
 
-![GA](https://github.com/Deepleen/CACS-YOLO/Model architecture diagram of CACS-YOLO.png)
+!(https://github.com/Deepleen/CACS-YOLO/Model architecture diagram of CACS-YOLO.png)
 
 ​                                                        Fig. 1: Model architecture diagram of CACS-YOLO
 
