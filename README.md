@@ -111,3 +111,4 @@ python ./Image_Synthetic_Rain.py <Path of the image> <Angle of raindrops> <Numbe
 # python image_synthetic_rain.py ./data_example/000050.jpg -30 600 5 60 ./data_example/synthesis_effect/rainy_000050.jpg
 ```
 
+Note: Relevant links to dataset sources will be provided soon!
