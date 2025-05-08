@@ -111,4 +111,15 @@ python ./Image_Synthetic_Rain.py <Path of the image> <Angle of raindrops> <Numbe
 # python image_synthetic_rain.py ./data_example/000050.jpg -30 600 5 60 ./data_example/synthesis_effect/rainy_000050.jpg
 ```
 
-Note: Relevant links to dataset sources will be provided soon!
+### 8. Citing CACS-YOLO
+If you use CACS-YOLO in your research, please use the following BibTeX entry. 📣 Thank you!
+
+```
+@article{cao2024cacs,
+  title={CACS-YOLO: A Lightweight Model for Insulator Defect Detection based on Improved YOLOv8m},
+  author={Cao, Zhong and Chen, Kaihong and Chen, Junzuo and Chen, Zhaohui and Zhang, Man},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2024},
+  publisher={IEEE}
+}
+```
